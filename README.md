@@ -11,4 +11,4 @@ and 0.789 on the public leaderboard.
 + scikit-learn 0.16.1
 
 
-very good tutorial[http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/]
+[very good tutorial](http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/)
